@@ -1,23 +1,36 @@
 # Hi, I'm ゆっきー 👋
 
 高校3年生のバックエンドエンジニア志望です。
-実際に使われるプロダクトを作ることにこだわっています。
+「実際に使われるプロダクト」を作ることにこだわっています。
 
-## 主なプロジェクト
-- **図書管理アプリ(Kashidasu)**: 実稼働中の図書館管理システム(300ユーザー)
-- **注文管理システム(OrderManagementSystem)**: 文化祭で使用し、売上1位に貢献
+## 🚀 主なプロジェクト
 
-## 技術スタック
-**得意:**
+### [Kashidasu](https://github.com/yukki072417/Kashidasu) - 図書館管理システム
+- 高校図書館で実稼働中(稼働期間: 8ヶ月)
+- 蔵書約X,XXX冊、ユーザー約XXX名が利用
+- Node.js + Express + MySQL + Docker on Raspberry Pi
+
+### 注文管理システム
+- 文化祭で使用し、飲食店の中で売上1位に貢献
+- WebSocketによるリアルタイム注文管理
+- Node.js + React + MySQL
+
+## 💻 技術スタック
+
+**バックエンド:**
 - Node.js / Express
 - MySQL
 - Docker
 
-**興味:**
+**フロントエンド:**
+- EJS / React
+- JavaScript
+
+**興味がある分野:**
 - マイクロサービスアーキテクチャ
 - 大規模トラフィック処理
 - インフラ設計
 
-## 連絡先
-- Twitter: [@yukki_marshal](https://twitter.com/yukki_marshal)
-- Email: yukki072417@gmail.com
+## 🎯 現在取り組んでいること
+- マイクロサービスアーキテクチャの学習と実装
+- ゲームマッチングアプリの開発
