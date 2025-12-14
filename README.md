@@ -9,7 +9,7 @@
 - 高校図書館で実稼働中(稼働期間: 5ヶ月)
 - Node.js + Express + MySQL + Docker on Raspberry Pi
 
-### 注文管理システム
+### [Order-Management-System](https://github.com/yukki072417/Order-Management-System)注文管理システム
 - 文化祭で使用し、飲食店の中で売上1位に貢献
 - WebSocketによるリアルタイム注文管理
 - Node.js + React + MySQL
