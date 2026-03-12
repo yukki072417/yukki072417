@@ -6,7 +6,7 @@
 ## 主なプロジェクト
 
 ### [Kashidasu](https://github.com/yukki072417/Kashidasu) - 図書館管理システム
-- 高校図書館で実稼働中(稼働期間: 5ヶ月)
+- 高校図書館で実稼働中(稼働期間: 2025年6月から稼働)
 - Node.js + Express + MySQL + Docker on Raspberry Pi
 
 ### [Order-Management-System](https://github.com/yukki072417/Order-Management-System)注文管理システム
