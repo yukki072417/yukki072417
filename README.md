@@ -1,13 +1,13 @@
 # Hi, I'm ゆっきー 👋
 
-高校3年生のバックエンドエンジニア志望です。
+最近大学生になったバックエンドエンジニア志望の学生です。
 「実際に使われるプロダクト」を作ることにこだわっています。
 
 ## 主なプロジェクト
 
 ### [Kashidasu](https://github.com/yukki072417/Kashidasu) - 図書館管理システム
 - 高校図書館で実稼働中(稼働期間: 2025年6月から稼働)
-- Node.js + Express + MySQL + Docker on Raspberry Pi
+- Node.js + Express
 
 ### [Order-Management-System](https://github.com/yukki072417/Order-Management-System)注文管理システム
 - 文化祭で使用し、飲食店の中で売上1位に貢献
