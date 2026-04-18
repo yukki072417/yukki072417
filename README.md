@@ -14,6 +14,8 @@
 - WebSocketによるリアルタイム注文管理
 - Node.js + React + MySQL
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yukki072417)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 技術スタック
 
 **バックエンド:**
